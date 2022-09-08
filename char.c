@@ -3,6 +3,7 @@
 
 /**
  * pchar_handler - handles the pchar instruction
+ *
  * @stack: double pointer to the stack to push to
  * @line_number: number of the line in the file
  */
