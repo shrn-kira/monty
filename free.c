@@ -3,7 +3,6 @@
 
 /**
  * free_all - custom memory handling function
- *
  * @all: flag to indicate what to free
  */
 void free_all(int all)
