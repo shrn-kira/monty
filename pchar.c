@@ -1,4 +1,5 @@
 #include "monty.h"
+#include <ctype.h>
 
 /**
  * get_pchar - function that prints the char at the top of the stack

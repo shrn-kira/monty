@@ -1,5 +1,5 @@
-o#include "monty.h"
-
+#include "monty.h"
+#include <stdio.h>
 /**
  *  main - Main
  *
