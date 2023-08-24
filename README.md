@@ -11,7 +11,7 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 
 ## Environment
 
-Ubuntu 14.04 LTS via Vagrant in VirtualBox and compiled with GCC version 4.8.4
+Ubuntu 20.04 LTS via Vagrant in VirtualBox and compiled with GCC 
 
 ## Instructions
 
